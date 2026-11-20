@@ -2,9 +2,9 @@
 
 ## tavodll
 
-**Data & Automation Engineer · SAP MM Analytics · Full-Stack Developer**
+**Software Engineer · Generative AI · Technology Architect**
 
-*Turning raw ERP data into reliable, automated pipelines.*
+*Designing and building software, automation and AI-driven solutions for enterprise clients.*
 
 ![Profile views](https://komarev.com/ghpvc/?username=TavOexe&color=30363d&style=flat-square&label=profile+views)
 
@@ -14,32 +14,31 @@
 
 ### About
 
-I build data pipelines and internal software for supply chain and inventory operations running on SAP. Most of my work happens in private client repositories: extracting large SAP exports, reconciling them across sources, enforcing business rules, and delivering clean, automated outputs to planning platforms.
+Software engineer focused on application development, generative AI and solution architecture. I work on enterprise and client projects, mostly in private repositories, across a range of industries and platforms.
 
-On the application side, I have shipped web, backend and mobile projects in Python, Java, Go, Vue and Flutter, including Odoo modules and inventory management systems.
+### Areas I have worked in
 
-### Featured project
+- **Generative AI & conversational agents** — virtual agents and omnichannel customer service (WhatsApp, Messenger)
+- **Technology architecture** — solution design for enterprise and client platforms
+- **ERP & data** — SAP S/4HANA, supply chain and inventory analytics
+- **Automation & RPA** — process automation, report automation, web automation
+- **Software development** — web, backend and mobile applications
 
-**Omnichannel virtual agent for customer service** · *Nov 2025 – Aug 2026*
+---
 
-Virtual agent and multichannel platform for a public water and sanitation utility, handling **1,000+ customer service tickets** across **WhatsApp** and **Facebook Messenger**.
+### Education
 
-- WhatsApp Business API and Messenger integration into a unified inbox
-- Intent classification and automated answers for frequent requests (billing, account status, complaints)
-- Automatic ticket creation, priority-based routing and handoff to human agents
-- Agent dashboard with customer history, SLA rules and satisfaction surveys
-- Load-tested for 1,000 concurrent tickets, with horizontal scaling, monitoring and alerting
+| | |
+|---|---|
+| 🎓 **Software Engineer** (professional degree) | Universidad Peruana de Ciencias Aplicadas (UPC) |
+| 🎓 **Bachelor's degree in Software Engineering** | Universidad Peruana de Ciencias Aplicadas (UPC) |
 
-![WhatsApp](https://img.shields.io/badge/WhatsApp_Business_API-0d1117?style=flat-square&logo=whatsapp&logoColor=25D366)
-![Messenger](https://img.shields.io/badge/Messenger_Platform-0d1117?style=flat-square&logo=messenger&logoColor=00B2FF)
-![Chatbot](https://img.shields.io/badge/Conversational_AI-0d1117?style=flat-square&logo=probot&logoColor=white)
+### Certifications
 
-### Current focus
-
-- **SAP data engineering** — multi-source joins across stock, material valuation, purchase orders, purchase requisitions, reservations, outline agreements and in-transit stock.
-- **Data quality & reconciliation** — tolerance-based stock/value checks, deduplication, split valuation handling and currency alignment between sources.
-- **Report automation** — scheduled weekly reports that replace manual Excel work, with outputs formatted for downstream platforms.
-- **Client software delivery** — requirements, iterative releases and production support.
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
+![Excel](https://img.shields.io/badge/Excel-0d1117?style=flat-square&logo=microsoftexcel&logoColor=217346)
+![Rocketbot](https://img.shields.io/badge/RPA_Rocketbot-0d1117?style=flat-square&logo=robotframework&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-0d1117?style=flat-square&logo=selenium&logoColor=43B02A)
 
 ---
 
@@ -61,15 +60,25 @@ Virtual agent and multichannel platform for a public water and sanitation utilit
 ![Dart](https://img.shields.io/badge/Dart-0d1117?style=for-the-badge&logo=dart&logoColor=0175C2)
 ![PowerShell](https://img.shields.io/badge/PowerShell-0d1117?style=for-the-badge&logo=powershell&logoColor=5391FE)
 
-**Data & automation**
+**Generative AI**
+
+![LLMs](https://img.shields.io/badge/LLMs-0d1117?style=for-the-badge&logo=openai&logoColor=white)
+![Prompt_Engineering](https://img.shields.io/badge/Prompt_Engineering-0d1117?style=for-the-badge&logo=anthropic&logoColor=D97757)
+![AI_Agents](https://img.shields.io/badge/AI_Agents-0d1117?style=for-the-badge&logo=probot&logoColor=white)
+![Conversational_AI](https://img.shields.io/badge/Conversational_AI-0d1117?style=for-the-badge&logo=messenger&logoColor=00B2FF)
+
+**Automation & RPA**
+
+![Rocketbot](https://img.shields.io/badge/Rocketbot-0d1117?style=for-the-badge&logo=robotframework&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-0d1117?style=for-the-badge&logo=selenium&logoColor=43B02A)
+![Python_Automation](https://img.shields.io/badge/Python_Automation-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
+
+**Data**
 
 ![pandas](https://img.shields.io/badge/pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=F37626)
-![openpyxl](https://img.shields.io/badge/openpyxl-0d1117?style=for-the-badge&logo=python&logoColor=white)
-![XlsxWriter](https://img.shields.io/badge/XlsxWriter-0d1117?style=for-the-badge&logo=microsoftexcel&logoColor=217346)
-![Calamine](https://img.shields.io/badge/Calamine-0d1117?style=for-the-badge&logo=rust&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-0d1117?style=for-the-badge&logo=microsoftexcel&logoColor=217346)
-![Power BI](https://img.shields.io/badge/Power_BI-0d1117?style=for-the-badge&logo=powerbi&logoColor=F2C811)
+![Power_BI](https://img.shields.io/badge/Power_BI-0d1117?style=for-the-badge&logo=powerbi&logoColor=F2C811)
 
 **ERP**
 
@@ -96,16 +105,12 @@ Virtual agent and multichannel platform for a public water and sanitation utilit
 
 | Area | Scope |
 |---|---|
-| Data engineering | Python ETL, multi-source joins, cleansing and validation of large Excel/SAP extracts |
-| SAP MM / Logistics | Inventory, material valuation, procurement, reservations, outline agreements, in-transit stock |
-| Data quality | Reconciliation with tolerances, business-rule enforcement, audit-ready outputs |
-| Automation | Recurring report generation with no manual steps |
-| Conversational AI | Virtual agents, WhatsApp and Messenger integrations, ticketing workflows |
-| Backend | C#/.NET, Java and Go services, Python apps, REST APIs |
-| Low-level | Assembly programming, memory and performance-oriented code |
-| Frontend & mobile | Vue.js web apps, Flutter mobile apps, landing pages |
-| ERP customization | Odoo module development |
-| Delivery | Requirements gathering, iterative releases, client support |
+| Software development | Web, backend and mobile applications |
+| Generative AI | LLM-based solutions, AI agents, conversational assistants |
+| Technology architecture | Solution design, integrations, scalable enterprise platforms |
+| Automation & RPA | Rocketbot, Selenium, Python automation |
+| Data & ERP | SAP S/4HANA, data analytics and reporting |
+| Low-level | Assembly programming |
 
 ---
 
@@ -123,5 +128,5 @@ Virtual agent and multichannel platform for a public water and sanitation utilit
 ---
 
 <div align="center">
-<sub>Open to data engineering, SAP analytics and automation projects.</sub>
+<sub>Open to software development, generative AI and technology architecture projects.</sub>
 </div>
