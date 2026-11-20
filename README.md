@@ -73,9 +73,7 @@ Virtual agent and multichannel platform for a public water and sanitation utilit
 
 **ERP**
 
-![SAP MM](https://img.shields.io/badge/SAP_MM-0d1117?style=for-the-badge&logo=sap&logoColor=0FAAFF)
 ![S/4HANA](https://img.shields.io/badge/S%2F4HANA-0d1117?style=for-the-badge&logo=sap&logoColor=0FAAFF)
-![Odoo](https://img.shields.io/badge/Odoo-0d1117?style=for-the-badge&logo=odoo&logoColor=A24689)
 
 **Web & mobile**
 
