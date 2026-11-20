@@ -1,95 +1,100 @@
-<!--
-  README de perfil de GitHub.
-  Para que aparezca en tu perfil: crea un repo PÚBLICO con el MISMO nombre que tu usuario
-  (ej. github.com/TavOexe/TavOexe) y sube este archivo como README.md.
-  Usuario: TavOexe
--->
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1200&color=8B949E&center=true&vCenter=true&width=620&lines=hola.+soy+tavodll.;data+%26+automation+engineer.;el+pipeline+corri%C3%B3+a+las+3am.+yo+tambi%C3%A9n.;nada+importa.+los+datos+s%C3%AD+cuadran." alt="typing" />
+## tavodll
 
+**Data & Automation Engineer · SAP MM Analytics · Full-Stack Developer**
 
-*convierto tablas de SAP que nadie entiende en reportes que nadie lee… pero que siempre cuadran.*
+*Turning raw ERP data into reliable, automated pipelines.*
 
-![Profile views](https://komarev.com/ghpvc/?username=TavOexe&color=30363d&style=flat-square&label=almas+perdidas)
+![Profile views](https://komarev.com/ghpvc/?username=TavOexe&color=30363d&style=flat-square&label=profile+views)
 
 </div>
 
 ---
 
-### `> whoami`
+### About
 
-```yaml
-nombre:      tavodll
-rol:         Data & Automation Engineer · SAP MM / Supply Chain Analytics
-ubicación:   en algún lugar entre un Excel de 400 MB y un café frío
-enfoque:
-  - Automatizar reportes de inventario, compras y valoración a partir de SAP
-  - Construir pipelines de datos en Python que reemplazan horas de trabajo manual
-  - Entregar software interno a clientes que no saben que lo necesitaban
-estado:      operativo. emocionalmente en mantenimiento programado.
-```
+I build data pipelines and internal software for supply chain and inventory operations running on SAP. Most of my work happens in private client repositories: extracting large SAP exports, reconciling them across sources, enforcing business rules, and delivering clean, automated outputs to planning platforms.
 
-### `> cat /proc/experiencia`
+On the application side, I have shipped web, backend and mobile projects in Python, Java, Go, Vue and Flutter, including Odoo modules and inventory management systems.
 
-- 🏭 **Analítica de supply chain sobre SAP** — cruce de stock, valoración, órdenes de compra abiertas, solicitudes, reservas, contratos marco y material en tránsito para reportes semanales a clientes.
-- ⚙️ **Automatización de reportes** — scripts que leen exportaciones masivas de SAP, validan reglas de negocio y generan archivos listos para plataformas de planeación.
-- 🧮 **Calidad de datos** — tolerancias de conciliación, detección de duplicados, manejo de valoración dividida y diferencias de moneda entre fuentes.
-- 📦 **Software a la medida para clientes** — herramientas internas, entregas iterativas y soporte cuando todo se rompe un viernes.
+### Current focus
 
-> *"Todo sistema tiende al caos. Mi trabajo es retrasarlo hasta el próximo release."*
+- **SAP data engineering** — multi-source joins across stock, material valuation, purchase orders, purchase requisitions, reservations, outline agreements and in-transit stock.
+- **Data quality & reconciliation** — tolerance-based stock/value checks, deduplication, split valuation handling and currency alignment between sources.
+- **Report automation** — scheduled weekly reports that replace manual Excel work, with outputs formatted for downstream platforms.
+- **Client software delivery** — requirements, iterative releases and production support.
 
 ---
 
-### `> ls ~/stack`
+### Tech stack
 
-**Lenguajes**
+**Most used**
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=8b949e)
+![C#](https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=dotnet&logoColor=512BD4)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Assembly](https://img.shields.io/badge/Assembly-0d1117?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+
+**Also worked with**
+
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-0d1117?style=for-the-badge&logo=go&logoColor=00ADD8)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Dart](https://img.shields.io/badge/Dart-0d1117?style=for-the-badge&logo=dart&logoColor=0175C2)
 ![PowerShell](https://img.shields.io/badge/PowerShell-0d1117?style=for-the-badge&logo=powershell&logoColor=5391FE)
-![ABAP](https://img.shields.io/badge/SAP_ABAP_(lectura)-0d1117?style=for-the-badge&logo=sap&logoColor=0FAAFF)
 
-**Datos y automatización**
+**Data & automation**
 
-![pandas](https://img.shields.io/badge/pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=8b949e)
-![openpyxl](https://img.shields.io/badge/openpyxl-0d1117?style=for-the-badge&logo=python&logoColor=8b949e)
+![pandas](https://img.shields.io/badge/pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=F37626)
+![openpyxl](https://img.shields.io/badge/openpyxl-0d1117?style=for-the-badge&logo=python&logoColor=white)
 ![XlsxWriter](https://img.shields.io/badge/XlsxWriter-0d1117?style=for-the-badge&logo=microsoftexcel&logoColor=217346)
-![Calamine](https://img.shields.io/badge/Calamine-0d1117?style=for-the-badge&logo=rust&logoColor=8b949e)
+![Calamine](https://img.shields.io/badge/Calamine-0d1117?style=for-the-badge&logo=rust&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-0d1117?style=for-the-badge&logo=microsoftexcel&logoColor=217346)
 ![Power BI](https://img.shields.io/badge/Power_BI-0d1117?style=for-the-badge&logo=powerbi&logoColor=F2C811)
 
 **ERP**
 
-![SAP](https://img.shields.io/badge/SAP_MM-0d1117?style=for-the-badge&logo=sap&logoColor=0FAAFF)
-![SAP S/4HANA](https://img.shields.io/badge/S%2F4HANA-0d1117?style=for-the-badge&logo=sap&logoColor=0FAAFF)
+![SAP MM](https://img.shields.io/badge/SAP_MM-0d1117?style=for-the-badge&logo=sap&logoColor=0FAAFF)
+![S/4HANA](https://img.shields.io/badge/S%2F4HANA-0d1117?style=for-the-badge&logo=sap&logoColor=0FAAFF)
+![Odoo](https://img.shields.io/badge/Odoo-0d1117?style=for-the-badge&logo=odoo&logoColor=A24689)
 
-**Herramientas**
+**Web & mobile**
 
+![Vue](https://img.shields.io/badge/Vue.js-0d1117?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Flutter](https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=02569B)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+
+**Testing & tooling**
+
+![Cucumber](https://img.shields.io/badge/Gherkin_BDD-0d1117?style=for-the-badge&logo=cucumber&logoColor=23D96C)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
-![Claude](https://img.shields.io/badge/Claude_Code-0d1117?style=for-the-badge&logo=anthropic&logoColor=D97757)
-![Windows](https://img.shields.io/badge/Windows-0d1117?style=for-the-badge&logo=windows11&logoColor=0078D4)
+![Claude Code](https://img.shields.io/badge/Claude_Code-0d1117?style=for-the-badge&logo=anthropic&logoColor=D97757)
 
 ---
 
-### `> skills --verbose`
+### Core skills
 
-| Área | Qué hago | Nivel |
-|---|---|---|
-| Ingeniería de datos | ETL en Python, cruces multi-fuente, limpieza y validación | `██████████░` |
-| SAP MM / Logística | Stock, valoración, compras, reservas, contratos, tránsito | `█████████░░` |
-| Automatización | Reportes semanales sin intervención humana (ni alegría) | `█████████░░` |
-| Calidad de datos | Conciliación con tolerancias, reglas de negocio, auditoría | `█████████░░` |
-| Desarrollo a clientes | Requerimientos, entregas iterativas, soporte | `████████░░░` |
-| Visualización | Dashboards y reportes ejecutivos | `███████░░░░` |
-| Optimismo | — | `█░░░░░░░░░░` |
+| Area | Scope |
+|---|---|
+| Data engineering | Python ETL, multi-source joins, cleansing and validation of large Excel/SAP extracts |
+| SAP MM / Logistics | Inventory, material valuation, procurement, reservations, outline agreements, in-transit stock |
+| Data quality | Reconciliation with tolerances, business-rule enforcement, audit-ready outputs |
+| Automation | Recurring report generation with no manual steps |
+| Backend | C#/.NET, Java and Go services, Python apps, REST APIs |
+| Low-level | Assembly programming, memory and performance-oriented code |
+| Frontend & mobile | Vue.js web apps, Flutter mobile apps, landing pages |
+| ERP customization | Odoo module development |
+| Delivery | Requirements gathering, iterative releases, client support |
 
 ---
 
-### `> uptime`
+### GitHub stats
 
 <div align="center">
 
@@ -103,13 +108,5 @@ estado:      operativo. emocionalmente en mantenimiento programado.
 ---
 
 <div align="center">
-
-```
-  el café se enfría.  el deploy no.
-  los clientes cambian el alcance.  los datos no mienten.
-  cerramos el sprint.  abrimos otro.  así es el ciclo.
-```
-
-<sub>☁️ actualmente: automatizando lo inevitable · abierto a proyectos de datos, SAP y automatización</sub>
-
+<sub>Open to data engineering, SAP analytics and automation projects.</sub>
 </div>
