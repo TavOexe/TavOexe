@@ -18,6 +18,22 @@ I build data pipelines and internal software for supply chain and inventory oper
 
 On the application side, I have shipped web, backend and mobile projects in Python, Java, Go, Vue and Flutter, including Odoo modules and inventory management systems.
 
+### Featured project
+
+**Omnichannel virtual agent for customer service** · *Nov 2025 – Aug 2026*
+
+Virtual agent and multichannel platform for a public water and sanitation utility, handling **1,000+ customer service tickets** across **WhatsApp** and **Facebook Messenger**.
+
+- WhatsApp Business API and Messenger integration into a unified inbox
+- Intent classification and automated answers for frequent requests (billing, account status, complaints)
+- Automatic ticket creation, priority-based routing and handoff to human agents
+- Agent dashboard with customer history, SLA rules and satisfaction surveys
+- Load-tested for 1,000 concurrent tickets, with horizontal scaling, monitoring and alerting
+
+![WhatsApp](https://img.shields.io/badge/WhatsApp_Business_API-0d1117?style=flat-square&logo=whatsapp&logoColor=25D366)
+![Messenger](https://img.shields.io/badge/Messenger_Platform-0d1117?style=flat-square&logo=messenger&logoColor=00B2FF)
+![Chatbot](https://img.shields.io/badge/Conversational_AI-0d1117?style=flat-square&logo=probot&logoColor=white)
+
 ### Current focus
 
 - **SAP data engineering** — multi-source joins across stock, material valuation, purchase orders, purchase requisitions, reservations, outline agreements and in-transit stock.
@@ -86,6 +102,7 @@ On the application side, I have shipped web, backend and mobile projects in Pyth
 | SAP MM / Logistics | Inventory, material valuation, procurement, reservations, outline agreements, in-transit stock |
 | Data quality | Reconciliation with tolerances, business-rule enforcement, audit-ready outputs |
 | Automation | Recurring report generation with no manual steps |
+| Conversational AI | Virtual agents, WhatsApp and Messenger integrations, ticketing workflows |
 | Backend | C#/.NET, Java and Go services, Python apps, REST APIs |
 | Low-level | Assembly programming, memory and performance-oriented code |
 | Frontend & mobile | Vue.js web apps, Flutter mobile apps, landing pages |
