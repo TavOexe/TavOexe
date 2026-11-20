@@ -9,11 +9,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1200&color=8B949E&center=true&vCenter=true&width=620&lines=hola.+soy+tavodll.;data+%26+automation+engineer.;el+pipeline+corri%C3%B3+a+las+3am.+yo+tambi%C3%A9n.;nada+importa.+los+datos+s%C3%AD+cuadran." alt="typing" />
 
-```
-░█▀▄░█▀█░▀█▀░█▀█░░░█▀▀░█▀█░█▀▀░▀█▀░█▀█░█▀▀░█▀▀░█▀▄
-░█░█░█▀█░░█░░█▀█░░░█▀▀░█░█░█░█░░█░░█░█░█▀▀░█▀▀░█▀▄
-░▀▀░░▀░▀░░▀░░▀░▀░░░▀▀▀░▀░▀░▀▀▀░▀▀▀░▀░▀░▀▀▀░▀▀▀░▀░▀
-```
 
 *convierto tablas de SAP que nadie entiende en reportes que nadie lee… pero que siempre cuadran.*
 
